@@ -6,7 +6,7 @@
 
 <BR>
     
-    [![DepShield Badge](https://depshield.sonatype.org/badges/alfrice/glooctl/depshield.svg)](https://depshield.github.io)
+   
 
 
 Gloo’s command line was designed with ease of user experience for the powerful Gloo config language
@@ -414,3 +414,6 @@ Virtual service vservice1 deleted
 ## Reference
 To learn more about Upstreams and Virtual Services please refer
 to Gloo documentation.
+
+
+ [![DepShield Badge](https://depshield.sonatype.org/badges/alfrice/glooctl/depshield.svg)](https://depshield.github.io)
