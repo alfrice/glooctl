@@ -5,6 +5,9 @@
 </h1>
 
 <BR>
+    
+    [![DepShield Badge](https://depshield.sonatype.org/badges/alfrice/glooctl/depshield.svg)](https://depshield.github.io)
+
 
 Gloo’s command line was designed with ease of user experience for the powerful Gloo config language
 
